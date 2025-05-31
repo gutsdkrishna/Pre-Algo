@@ -1,0 +1,1005 @@
+{
+    "facet_scores": [
+      {
+        "facet_id": 0,
+        "facet_name": "Fantasy",
+        "score": 5
+      },
+      {
+        "facet_id": 1,
+        "facet_name": "Acceptance of new ideas",
+        "score": 3
+      },
+      {
+        "facet_id": 2,
+        "facet_name": "Acceptance of uncertainty",
+        "score": 4
+      },
+      {
+        "facet_id": 3,
+        "facet_name": "Accuracy",
+        "score": 4
+      },
+      {
+        "facet_id": 4,
+        "facet_name": "Accurate selfassessment",
+        "score": 6
+      },
+      {
+        "facet_id": 5,
+        "facet_name": "Achievement drive",
+        "score": 6
+      },
+      {
+        "facet_id": 6,
+        "facet_name": "AchievementStriving: High aspiration levels",
+        "score": 4
+      },
+      {
+        "facet_id": 7,
+        "facet_name": "Achiever: Drive for accomplishing tasks",
+        "score": 6
+      },
+      {
+        "facet_id": 8,
+        "facet_name": "Acting without thorough analysis",
+        "score": 2
+      },
+      {
+        "facet_id": 9,
+        "facet_name": "Actionoriented behavior",
+        "score": 1
+      },
+      {
+        "facet_id": 10,
+        "facet_name": "Activator: Turning thoughts into action",
+        "score": 5
+      },
+      {
+        "facet_id": 11,
+        "facet_name": "Active problemsolving",
+        "score": 7
+      },
+      {
+        "facet_id": 12,
+        "facet_name": "Activity level",
+        "score": 5
+      },
+      {
+        "facet_id": 13,
+        "facet_name": "Activity Level: High energy and busyness",
+        "score": 5
+      },
+      {
+        "facet_id": 14,
+        "facet_name": "Adaptability",
+        "score": 5
+      },
+      {
+        "facet_id": 15,
+        "facet_name": "Adaptability: Flexibility in the moment",
+        "score": 4
+      },
+      {
+        "facet_id": 16,
+        "facet_name": "Adherence to rules and regulations",
+        "score": 4
+      },
+      {
+        "facet_id": 17,
+        "facet_name": "Adventurousness: Willingness to try new activities",
+        "score": 2
+      },
+      {
+        "facet_id": 18,
+        "facet_name": "Aesthetic Appreciation: Enjoyment of art and beauty",
+        "score": 4
+      },
+      {
+        "facet_id": 19,
+        "facet_name": "Aggressiveness",
+        "score": 2
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Alignment with societal roles",
+        "score": 3
+      },
+      {
+        "facet_id": 21,
+        "facet_name": "Altruism: Willingness to help others",
+        "score": 3
+      },
+      {
+        "facet_id": 22,
+        "facet_name": "Ambition",
+        "score": 5
+      },
+      {
+        "facet_id": 23,
+        "facet_name": "Analytical thinking",
+        "score": 7
+      },
+      {
+        "facet_id": 24,
+        "facet_name": "Analytical: Understanding causes and effects",
+        "score": 6
+      },
+      {
+        "facet_id": 25,
+        "facet_name": "Anger",
+        "score": 3
+      },
+      {
+        "facet_id": 26,
+        "facet_name": "Anger: Proneness to frustration",
+        "score": 2
+      },
+      {
+        "facet_id": 27,
+        "facet_name": "Antagonism",
+        "score": 3
+      },
+      {
+        "facet_id": 28,
+        "facet_name": "Anticipatory worry",
+        "score": 5
+      },
+      {
+        "facet_id": 29,
+        "facet_name": "Antisocial behavior",
+        "score": 4
+      },
+      {
+        "facet_id": 30,
+        "facet_name": "Anxiety",
+        "score": 6
+      },
+      {
+        "facet_id": 31,
+        "facet_name": "Anxiety and skepticism",
+        "score": 4
+      },
+      {
+        "facet_id": 32,
+        "facet_name": "Anxiety: Tendency to worry",
+        "score": 4
+      },
+      {
+        "facet_id": 33,
+        "facet_name": "Anxiety: Worry in stressful situations",
+        "score": 6
+      },
+      {
+        "facet_id": 34,
+        "facet_name": "Applying creativity to practical issues",
+        "score": 5
+      },
+      {
+        "facet_id": 35,
+        "facet_name": "Approach behavior",
+        "score": 5
+      },
+      {
+        "facet_id": 36,
+        "facet_name": "Approachability",
+        "score": 5
+      },
+      {
+        "facet_id": 37,
+        "facet_name": "Arranger: Organizing resources effectively",
+        "score": 4
+      },
+      {
+        "facet_id": 38,
+        "facet_name": "Artistic Interests: Appreciation for art and beauty",
+        "score": 5
+      },
+      {
+        "facet_id": 39,
+        "facet_name": "Assertiveness",
+        "score": 5
+      },
+      {
+        "facet_id": 40,
+        "facet_name": "Assertiveness and control in relationships",
+        "score": 3
+      },
+      {
+        "facet_id": 41,
+        "facet_name": "Assertiveness to pursue own concerns",
+        "score": 4
+      },
+      {
+        "facet_id": 42,
+        "facet_name": "Assertiveness: Leadership and dominance tendencies",
+        "score": 2
+      },
+      {
+        "facet_id": 43,
+        "facet_name": "Association with career",
+        "score": 9
+      },
+      {
+        "facet_id": 44,
+        "facet_name": "Attachment",
+        "score": 4
+      },
+      {
+        "facet_id": 45,
+        "facet_name": "Attachment to Places and Things",
+        "score": 3
+      },
+      {
+        "facet_id": 46,
+        "facet_name": "Attention to concrete information",
+        "score": 4
+      },
+      {
+        "facet_id": 47,
+        "facet_name": "Attention to detail",
+        "score": 4
+      },
+      {
+        "facet_id": 48,
+        "facet_name": "Attention to patterns and meanings",
+        "score": 5
+      },
+      {
+        "facet_id": 49,
+        "facet_name": "Attitude toward learning",
+        "score": 7
+      },
+      {
+        "facet_id": 50,
+        "facet_name": "Attitudes and Beliefs",
+        "score": 4
+      },
+      {
+        "facet_id": 51,
+        "facet_name": "Avoidance behavior",
+        "score": 3
+      },
+      {
+        "facet_id": 52,
+        "facet_name": "Avoidance of conflict",
+        "score": 5
+      },
+      {
+        "facet_id": 53,
+        "facet_name": "Avoidance of confrontation",
+        "score": 4
+      },
+      {
+        "facet_id": 54,
+        "facet_name": "Avoidance of pain",
+        "score": 2
+      },
+      {
+        "facet_id": 55,
+        "facet_name": "Avoidance of uncertainty",
+        "score": 5
+      },
+      {
+        "facet_id": 56,
+        "facet_name": "Balanced approach to risk",
+        "score": 2
+      },
+      {
+        "facet_id": 57,
+        "facet_name": "Balancing concerns",
+        "score": 5
+      },
+      {
+        "facet_id": 58,
+        "facet_name": "Behavioral Inhibition and Activation",
+        "score": 2
+      },
+      {
+        "facet_id": 59,
+        "facet_name": "Behavioral Styles and Tendencies",
+        "score": 4
+      },
+      {
+        "facet_id": 60,
+        "facet_name": "Behavioral Tendencies",
+        "score": 3
+      },
+      {
+        "facet_id": 61,
+        "facet_name": "Belief: Strong core values",
+        "score": 4
+      },
+      {
+        "facet_id": 62,
+        "facet_name": "Bigpicture thinking",
+        "score": 4
+      },
+      {
+        "facet_id": 63,
+        "facet_name": "Body confidence",
+        "score": 2
+      },
+      {
+        "facet_id": 64,
+        "facet_name": "Body language",
+        "score": 4
+      },
+      {
+        "facet_id": 65,
+        "facet_name": "Bold decisionmaking",
+        "score": 3
+      },
+      {
+        "facet_id": 66,
+        "facet_name": "Brainstorming capabilities",
+        "score": 6
+      },
+      {
+        "facet_id": 67,
+        "facet_name": "Building bonds",
+        "score": 5
+      },
+      {
+        "facet_id": 68,
+        "facet_name": "Building relationships",
+        "score": 7
+      },
+      {
+        "facet_id": 69,
+        "facet_name": "Calmness",
+        "score": 3
+      },
+      {
+        "facet_id": 70,
+        "facet_name": "Career and Occupational Parameters",
+        "score": 9
+      },
+      {
+        "facet_id": 71,
+        "facet_name": "Careful consideration",
+        "score": 4
+      },
+      {
+        "facet_id": 72,
+        "facet_name": "Casual lifestyle",
+        "score": 6
+      },
+      {
+        "facet_id": 73,
+        "facet_name": "Cautiousness: Thinking carefully before acting",
+        "score": 3
+      },
+      {
+        "facet_id": 74,
+        "facet_name": "Centralized decisionmaking",
+        "score": 2
+      },
+      {
+        "facet_id": 75,
+        "facet_name": "Change catalyst",
+        "score": 3
+      },
+      {
+        "facet_id": 76,
+        "facet_name": "Cheerfulness: Positive mood and outlook",
+        "score": 7
+      },
+      {
+        "facet_id": 77,
+        "facet_name": "Clarity",
+        "score": 4
+      },
+      {
+        "facet_id": 78,
+        "facet_name": "Clear expression of needs",
+        "score": 6
+      },
+      {
+        "facet_id": 79,
+        "facet_name": "Clear structure and expectations",
+        "score": 5
+      },
+      {
+        "facet_id": 80,
+        "facet_name": "Cognitive Biases",
+        "score": 1
+      },
+      {
+        "facet_id": 81,
+        "facet_name": "Cognitive Styles and Thinking Patterns",
+        "score": 6
+      },
+      {
+        "facet_id": 82,
+        "facet_name": "Collaboration",
+        "score": 8
+      },
+      {
+        "facet_id": 83,
+        "facet_name": "Collaborative decisionmaking",
+        "score": 4
+      },
+      {
+        "facet_id": 84,
+        "facet_name": "Comfort in social situations",
+        "score": 4
+      },
+      {
+        "facet_id": 85,
+        "facet_name": "Comfort with ambiguity",
+        "score": 3
+      },
+      {
+        "facet_id": 86,
+        "facet_name": "Comfort with intimacy",
+        "score": 2
+      },
+      {
+        "facet_id": 87,
+        "facet_name": "Command: Taking charge",
+        "score": 3
+      },
+      {
+        "facet_id": 88,
+        "facet_name": "Commitment",
+        "score": 6
+      },
+      {
+        "facet_id": 89,
+        "facet_name": "Communication",
+        "score": 8
+      },
+      {
+        "facet_id": 90,
+        "facet_name": "Communication Styles",
+        "score": 7
+      },
+      {
+        "facet_id": 91,
+        "facet_name": "Communication: Conveying ideas effectively",
+        "score": 7
+      },
+      {
+        "facet_id": 92,
+        "facet_name": "Compassion",
+        "score": 2
+      },
+      {
+        "facet_id": 93,
+        "facet_name": "Competition: Striving to win",
+        "score": 5
+      },
+      {
+        "facet_id": 94,
+        "facet_name": "Competitiveness",
+        "score": 3
+      },
+      {
+        "facet_id": 95,
+        "facet_name": "Compliance",
+        "score": 6
+      },
+      {
+        "facet_id": 96,
+        "facet_name": "Compulsive activities",
+        "score": 4
+      },
+      {
+        "facet_id": 97,
+        "facet_name": "Concrete vs Abstract Thinking",
+        "score": 4
+      },
+      {
+        "facet_id": 98,
+        "facet_name": "Confidence levels",
+        "score": 4
+      },
+      {
+        "facet_id": 99,
+        "facet_name": "Conflict management",
+        "score": 5
+      },
+      {
+        "facet_id": 100,
+        "facet_name": "Conformity to rules",
+        "score": 3
+      },
+      {
+        "facet_id": 101,
+        "facet_name": "Conformity to social norms",
+        "score": 4
+      },
+      {
+        "facet_id": 102,
+        "facet_name": "Confrontational approach",
+        "score": 5
+      },
+      {
+        "facet_id": 103,
+        "facet_name": "Congruent Second Nature",
+        "score": 5
+      },
+      {
+        "facet_id": 104,
+        "facet_name": "Connectedness: Belief in interconnections",
+        "score": 6
+      },
+      {
+        "facet_id": 105,
+        "facet_name": "Connection to cultural heritage",
+        "score": 5
+      },
+      {
+        "facet_id": 106,
+        "facet_name": "Conscientiousness",
+        "score": 4
+      },
+      {
+        "facet_id": 107,
+        "facet_name": "Conservative choices",
+        "score": 3
+      },
+      {
+        "facet_id": 108,
+        "facet_name": "Consideration of personal impact",
+        "score": 5
+      },
+      {
+        "facet_id": 109,
+        "facet_name": "Consistency",
+        "score": 3
+      },
+      {
+        "facet_id": 110,
+        "facet_name": "Consistency: Desire for fairness",
+        "score": 2
+      },
+      {
+        "facet_id": 111,
+        "facet_name": "Contentment",
+        "score": 6
+      },
+      {
+        "facet_id": 112,
+        "facet_name": "Context: Learning from the past",
+        "score": 6
+      },
+      {
+        "facet_id": 113,
+        "facet_name": "Control",
+        "score": 4
+      },
+      {
+        "facet_id": 114,
+        "facet_name": "Control over resources",
+        "score": 3
+      },
+      {
+        "facet_id": 115,
+        "facet_name": "Control over situations",
+        "score": 4
+      },
+      {
+        "facet_id": 116,
+        "facet_name": "Control over team",
+        "score": 1
+      },
+      {
+        "facet_id": 117,
+        "facet_name": "Cooperating to find a winwin solution",
+        "score": 4
+      },
+      {
+        "facet_id": 118,
+        "facet_name": "Cooperation: Avoidance of conflict",
+        "score": 5
+      },
+      {
+        "facet_id": 119,
+        "facet_name": "Coping Mechanisms",
+        "score": 3
+      },
+      {
+        "facet_id": 120,
+        "facet_name": "Coping with stress and pressure",
+        "score": 4
+      },
+      {
+        "facet_id": 121,
+        "facet_name": "Creativity: Originality and innovation",
+        "score": 6
+      },
+      {
+        "facet_id": 122,
+        "facet_name": "Critical of self and others",
+        "score": 5
+      },
+      {
+        "facet_id": 123,
+        "facet_name": "Critical thinking",
+        "score": 5
+      },
+      {
+        "facet_id": 124,
+        "facet_name": "Cultural and Environmental Factors",
+        "score": 1
+      },
+      {
+        "facet_id": 125,
+        "facet_name": "Curiosity",
+        "score": 5
+      },
+      {
+        "facet_id": 126,
+        "facet_name": "Decision-Making Processes",
+        "score": 5
+      },
+      {
+        "facet_id": 127,
+        "facet_name": "Decisionmaking based on logic",
+        "score": 5
+      },
+      {
+        "facet_id": 128,
+        "facet_name": "Decisionmaking based on values",
+        "score": 4
+      },
+      {
+        "facet_id": 129,
+        "facet_name": "Decisiveness",
+        "score": 3
+      },
+      {
+        "facet_id": 130,
+        "facet_name": "Deep emotions",
+        "score": 3
+      },
+      {
+        "facet_id": 131,
+        "facet_name": "Defending a position",
+        "score": 2
+      },
+      {
+        "facet_id": 132,
+        "facet_name": "Deference to others",
+        "score": 2
+      },
+      {
+        "facet_id": 133,
+        "facet_name": "Deferential vs Dominant",
+        "score": 1
+      },
+      {
+        "facet_id": 134,
+        "facet_name": "Delayed gratification",
+        "score": 4
+      },
+      {
+        "facet_id": 135,
+        "facet_name": "Delaying tasks",
+        "score": 5
+      },
+      {
+        "facet_id": 136,
+        "facet_name": "Delegation of authority",
+        "score": 2
+      },
+      {
+        "facet_id": 137,
+        "facet_name": "Deliberation",
+        "score": 2
+      },
+      {
+        "facet_id": 138,
+        "facet_name": "Deliberative: Careful decisionmaking",
+        "score": 3
+      },
+      {
+        "facet_id": 139,
+        "facet_name": "Denial",
+        "score": 3
+      },
+      {
+        "facet_id": 140,
+        "facet_name": "Dependability",
+        "score": 5
+      },
+      {
+        "facet_id": 141,
+        "facet_name": "Dependence",
+        "score": 2
+      },
+      {
+        "facet_id": 142,
+        "facet_name": "Dependence: Need for emotional support",
+        "score": 3
+      },
+      {
+        "facet_id": 143,
+        "facet_name": "Dependency",
+        "score": 4
+      },
+      {
+        "facet_id": 144,
+        "facet_name": "Depression",
+        "score": 5
+      },
+      {
+        "facet_id": 145,
+        "facet_name": "Desire for acceptance",
+        "score": 4
+      },
+      {
+        "facet_id": 146,
+        "facet_name": "Desire for control",
+        "score": 1
+      },
+      {
+        "facet_id": 147,
+        "facet_name": "Desire for excellence",
+        "score": 6
+      },
+      {
+        "facet_id": 148,
+        "facet_name": "Desire for harmony",
+        "score": 4
+      },
+      {
+        "facet_id": 149,
+        "facet_name": "Desire for leadership",
+        "score": 7
+      },
+      {
+        "facet_id": 150,
+        "facet_name": "Desire for order and precision",
+        "score": 4
+      },
+      {
+        "facet_id": 151,
+        "facet_name": "Desire for uniqueness",
+        "score": 2
+      },
+      {
+        "facet_id": 152,
+        "facet_name": "Desire to be loved",
+        "score": 5
+      },
+      {
+        "facet_id": 153,
+        "facet_name": "Desire to influence others",
+        "score": 5
+      },
+      {
+        "facet_id": 154,
+        "facet_name": "Detailoriented approach",
+        "score": 4
+      },
+      {
+        "facet_id": 155,
+        "facet_name": "Developer: Cultivating others' potential",
+        "score": 7
+      },
+      {
+        "facet_id": 156,
+        "facet_name": "Developing others",
+        "score": 8
+      },
+      {
+        "facet_id": 157,
+        "facet_name": "Diligence: Hardworking and persistent",
+        "score": 6
+      },
+      {
+        "facet_id": 158,
+        "facet_name": "Diplomacy",
+        "score": 4
+      },
+      {
+        "facet_id": 159,
+        "facet_name": "Directness",
+        "score": 4
+      },
+      {
+        "facet_id": 160,
+        "facet_name": "Discipline: Preference for structure",
+        "score": 5
+      },
+      {
+        "facet_id": 161,
+        "facet_name": "Disorderliness",
+        "score": 3
+      },
+      {
+        "facet_id": 162,
+        "facet_name": "Disregard for others' feelings",
+        "score": 3
+      },
+      {
+        "facet_id": 163,
+        "facet_name": "Distraction",
+        "score": 5
+      },
+      {
+        "facet_id": 164,
+        "facet_name": "Divergent thinking",
+        "score": 2
+      },
+      {
+        "facet_id": 165,
+        "facet_name": "Dominating conversations",
+        "score": 3
+      },
+      {
+        "facet_id": 166,
+        "facet_name": "Dutifulness: Sense of responsibility and ethics",
+        "score": 3
+      },
+      {
+        "facet_id": 167,
+        "facet_name": "Eagerness of effort",
+        "score": 4
+      },
+      {
+        "facet_id": 168,
+        "facet_name": "Eating Habits",
+        "score": 3
+      },
+      {
+        "facet_id": 169,
+        "facet_name": "Educational interests",
+        "score": 10
+      },
+      {
+        "facet_id": 170,
+        "facet_name": "Egocentricity",
+        "score": 3
+      },
+      {
+        "facet_id": 171,
+        "facet_name": "Embracing new experiences",
+        "score": 4
+      },
+      {
+        "facet_id": 172,
+        "facet_name": "Emotional appeal",
+        "score": 3
+      },
+      {
+        "facet_id": 173,
+        "facet_name": "Emotional distance",
+        "score": 3
+      },
+      {
+        "facet_id": 174,
+        "facet_name": "Emotional expression",
+        "score": 4
+      },
+      {
+        "facet_id": 175,
+        "facet_name": "Emotional fulfillment",
+        "score": 5
+      },
+      {
+        "facet_id": 176,
+        "facet_name": "Emotional instability",
+        "score": 3
+      },
+      {
+        "facet_id": 177,
+        "facet_name": "Emotional responsiveness",
+        "score": 4
+      },
+      {
+        "facet_id": 178,
+        "facet_name": "Emotional stability",
+        "score": 3
+      },
+      {
+        "facet_id": 179,
+        "facet_name": "Emotional States and Well-being",
+        "score": 4
+      },
+      {
+        "facet_id": 180,
+        "facet_name": "Emotionality: Awareness and expression of feelings",
+        "score": 4
+      },
+      {
+        "facet_id": 181,
+        "facet_name": "Empathy",
+        "score": 4
+      },
+      {
+        "facet_id": 182,
+        "facet_name": "Empathy and compassion",
+        "score": 3
+      },
+      {
+        "facet_id": 183,
+        "facet_name": "Empathy: Understanding others' feelings",
+        "score": 4
+      },
+      {
+        "facet_id": 184,
+        "facet_name": "Empowering others",
+        "score": 4
+      },
+      {
+        "facet_id": 185,
+        "facet_name": "Encouraging innovation",
+        "score": 4
+      },
+      {
+        "facet_id": 186,
+        "facet_name": "Encouraging participation",
+        "score": 4
+      },
+      {
+        "facet_id": 187,
+        "facet_name": "Energy drawn from external environment",
+        "score": 3
+      },
+      {
+        "facet_id": 188,
+        "facet_name": "Energy drawn from internal thoughts",
+        "score": 5
+      },
+      {
+        "facet_id": 189,
+        "facet_name": "Enjoyment of intellectual activities",
+        "score": 7
+      },
+      {
+        "facet_id": 190,
+        "facet_name": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet_id": 191,
+        "facet_name": "Enthusiasm and energy level",
+        "score": 4
+      },
+      {
+        "facet_id": 192,
+        "facet_name": "Environmental Consciousness",
+        "score": 4
+      },
+      {
+        "facet_id": 193,
+        "facet_name": "Ethical and Moral Parameters",
+        "score": 3
+      },
+      {
+        "facet_id": 194,
+        "facet_name": "Ethical practices",
+        "score": 5
+      },
+      {
+        "facet_id": 195,
+        "facet_name": "Ethical standards",
+        "score": 3
+      },
+      {
+        "facet_id": 196,
+        "facet_name": "Ethics and Integrity",
+        "score": 5
+      },
+      {
+        "facet_id": 197,
+        "facet_name": "Fear",
+        "score": 3
+      },
+      {
+        "facet_id": 198,
+        "facet_name": "Expedient vs RuleConscious",
+        "score": 1
+      },
+      {
+        "facet_id": 199,
+        "facet_name": "Exploratory excitability",
+        "score": 3
+      }
+    ],
+    "processing_ms": 877
+  }

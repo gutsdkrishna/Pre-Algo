@@ -1,9 +1,15 @@
 {
     "conversation": [
       {"speaker": "AI",    "text": "Hi there! What’s on your mind today?"},
-      {"speaker": "User",  "text": "Hi I am Krishna, I am a student of Computer Science and Engineering at IIT Madras"},
-      {"speaker": "AI",    "text": "That sounds great.  Could you tell me what part worries you most?"},
-      {"speaker": "User",  "text": "Nothing as such, I just wanted to check how you are doing"}
+      {"speaker": "User",  "text": "Honestly, I’ve been feeling anxious about my exams."},
+      {"speaker": "AI",    "text": "That sounds stressful.  Could you tell me what part worries you most?"},
+      {"speaker": "User",  "text": "I’m afraid of failing and letting my parents down."},
+      {"speaker": "AI",    "text": "When you imagine that happening, what emotions come up?"},
+      {"speaker": "User",  "text": "Mostly panic, and a bit of anger at myself."},
+      {"speaker": "AI",    "text": "Have you found anything that calms you when panic rises?"},
+      {"speaker": "User",  "text": "Deep breathing helps, but it doesn’t always last."},
+      {"speaker": "AI",    "text": "Let’s note that coping tool.  Would you like to explore other strategies?"},
+      {"speaker": "User",  "text": "Yes, I’d like that—maybe something that builds confidence."}
    
     ]
   }
