@@ -1,0 +1,13 @@
+flask
+numpy
+torch
+pytorch-lightning
+onnxruntime
+pyliwc
+openai
+python-dotenv
+requests
+scikit-learn
+transformers
+sentencepiece
+sentence-transformers

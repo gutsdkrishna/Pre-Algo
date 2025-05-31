@@ -1,0 +1,17 @@
+ahoum-rate-v2/
+├── app/
+│   ├── __init__.py
+│   ├── main.py               # Flask entry-point
+│   ├── preprocess.py         # cleaning utilities
+│   ├── emotion.py            # RoBERTa-GoEmotions wrapper
+│   ├── liwc_features.py      # LIWC-style counts
+│   ├── encoder.py            # HRAN context encoder
+│   ├── predictor.py          # Multi-task facet head
+│   ├── kg.py                 # knowledge-graph attention
+│   ├── reranker.py           # local Llama 3 / Mistral re-rank
+│   ├── calibration.py        # Platt scaling
+│   └── utils.py
+├── models/                   # put *.pt & *.gguf here
+├── requirements.txt
+├── Dockerfile
+└── docker-compose.yml
